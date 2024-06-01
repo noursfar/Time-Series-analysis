@@ -29,7 +29,7 @@ The project explores the dynamic relationships between economic growth, monetary
 ## Repository Contents
 
 - **Data**: Folder containing cleaned and pre-processed time series data.
-- **Scripts**: Python and EViews scripts used for VAR modeling and analysis.
+- **Scripts**: Python and EViews scripts used for VAR modeling, analysis and forecasting.
 - **Analysis Results**: Includes impulse response functions, causality test results, and variance decomposition.
 - **Documentation**: Comprehensive report detailing the methodology, analysis, and conclusions.
 
